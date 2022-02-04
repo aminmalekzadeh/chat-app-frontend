@@ -60,7 +60,6 @@ Here's why:
 * You can use of this chat app in your Business or you can use some part chat app
 * This chat app is full open source and you can find and send bug from this chat app for me
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
