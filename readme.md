@@ -8,7 +8,7 @@
     <img src="https://res.cloudinary.com/dzft1lfjv/image/upload/v1644007445/android-chrome-512x512_vwclot.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Chat App Massenger</h3>
+  <h3 align="center">Chat App Messenger</h3>
 
   <p align="center">
     A chat app massenger with expressjs and reactjs
