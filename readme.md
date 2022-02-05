@@ -11,7 +11,7 @@
   <h3 align="center">Chat App Messenger</h3>
 
   <p align="center">
-    A chat app massenger with expressjs and reactjs
+    A chat app messenger with expressjs and reactjs
     <br />
     <a href="#contact"><strong>Contact with developer »</strong></a>
     <br />
