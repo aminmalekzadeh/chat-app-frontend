@@ -8,10 +8,10 @@
     <img src="https://res.cloudinary.com/dzft1lfjv/image/upload/v1644007445/android-chrome-512x512_vwclot.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Chat App Massenger</h3>
+  <h3 align="center">Chat App Messenger</h3>
 
   <p align="center">
-    A chat app massenger with expressjs and reactjs
+    A chat app messenger with expressjs and reactjs
     <br />
     <a href="#contact"><strong>Contact with developer »</strong></a>
     <br />
@@ -60,7 +60,6 @@ Here's why:
 * You can use of this chat app in your Business or you can use some part chat app
 * This chat app is full open source and you can find and send bug from this chat app for me
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -168,3 +167,4 @@ During the development of this route I have used the following resources!
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/othneildrew
 [product-screenshot]: https://res.cloudinary.com/dzft1lfjv/image/upload/v1644007988/cover-chatapp_hxqst2.png
+g
